@@ -1,3 +1,4 @@
 Diyiju ce shi
 git is free
 git is good
+git is easy to use
